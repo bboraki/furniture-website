@@ -37,3 +37,10 @@ Proje, PHP kullanılarak kullanıcı dostu bir arayüzle geliştirilmiştir. MyS
 ## Ürün Güncelleme Sayfası
 
 ![Ürün Güncelleme Sayfası](images/8.png)
+
+---
+
+## Geliştiriciler
+
+- [Bora Kitirci](https://github.com/bboraki)
+- [Oğuz Kaan Yalçın](https://github.com/oguzkaanyalcin)
