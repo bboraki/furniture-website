@@ -1,3 +1,11 @@
+# Mobilya Satış Sitesi
+
+Bu proje, kullanıcıların mobilya ürünlerini kategoriye göre listeleyip filtreleyebildiği, detaylı ürün inceleme yapabildiği ve sepetlerine ekleyebildiği modern bir e-ticaret web uygulamasıdır. Aynı zamanda, yetkili kullanıcılar için ürün ve kategori yönetimi gibi işlemlerin yapılabildiği kapsamlı bir yönetim paneli de sunulmaktadır.
+
+Proje, PHP kullanılarak kullanıcı dostu bir arayüzle geliştirilmiştir. Veritabanı olarak MySQL tercih edilmiştir.
+
+---
+
 ## Anasayfa Görünümü
 
 ![Anasayfa](images/1.png)
